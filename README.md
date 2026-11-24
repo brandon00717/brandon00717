@@ -38,6 +38,11 @@ Education: BSc Computer Science, University of Manitoba (2026). Associate of Sci
 
 Core skills: Python, SQL, REST API integration, data cleaning and validation, software testing and QA, process automation, technical requirements analysis, Git and GitLab, Linux (Ubuntu).
 
+### Projects
+
+**[Inventory and Invoicing System: Business Analysis](https://github.com/brandon00717/inventory-invoicing-system-ba)**
+Phase 1 business analysis for an inventory and invoicing system for a small retail store. Stakeholder and scope analysis, business requirements, user stories with acceptance criteria, a functional specification with security requirements based on OWASP ASVS Level 1, designed test cases, a UAT plan, and full traceability across all of it. If you only read one file, start with the OVERVIEW.pdf in the repo.
+
 ### GitHub Stats
 
 <div align="center">
