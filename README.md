@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00875A&height=160&section=header&text=Brandon%20Narine&fontSize=44&fontColor=FFFFFF&desc=Software%20Developer%20%7C%20Python%2C%20Data%20%26%20Automation&descSize=16&descAlignY=68" width="100%"/>
+<img src="banner.svg" width="100%" alt="Brandon Narine, Software Developer, Python, Data and Automation"/>
 
 <div align="center">
 
